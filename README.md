@@ -2,7 +2,7 @@
 This is an entry level excel project of a local store,based on annual sales report 
 # Kayaas Store Dashboard --- Annual Report 2022
 
-## 📊 Project Overview
+## Project Overview
 
 The **Kayaas Store Dashboard -- Annual Report 2022** is an interactive
 sales and order analysis dashboard designed to provide a consolidated
@@ -15,7 +15,7 @@ filtered by **Month, Channel, and Category**.
 
 ------------------------------------------------------------------------
 
-## 🎯 Dashboard Objectives
+## Dashboard Objectives
 
 The main objectives of this dashboard are:
 
@@ -34,7 +34,7 @@ The main objectives of this dashboard are:
 
 ------------------------------------------------------------------------
 
-## 📌 Key Performance Indicators
+## Key Performance Indicators
 
 The dashboard displays the following headline KPIs:
 
@@ -50,7 +50,7 @@ The dashboard displays the following headline KPIs:
 
 ------------------------------------------------------------------------
 
-## 🎛️ Interactive Filters
+## Interactive Filters
 
 The dashboard provides three major filter areas:
 
@@ -71,7 +71,7 @@ Users can select individual months such as:
 -   Nov
 -   Dec
 
-### Channel
+## Channel
 
 The available sales channels shown are:
 
@@ -83,7 +83,7 @@ The available sales channels shown are:
 -   Nalli
 -   Others
 
-### Category
+## Category
 
 The available product categories shown are:
 
@@ -101,10 +101,9 @@ focused analysis.
 
 ------------------------------------------------------------------------
 
-# 📈 Dashboard Visuals
+# Dashboard Visuals
 
 ## 1. Orders vs Sales
-
 This combination chart compares:
 
 -   **Sum of Amount (Sales)** using columns.
@@ -120,14 +119,11 @@ approximately **2,819**, while monthly sales remain around the
 ------------------------------------------------------------------------
 
 ## 2. Percentagewise Sales
-
 The pie chart shows the percentage distribution of sales/orders between:
-
 -   Men
 -   Women
 
 The dashboard indicates approximately:
-
 -   **Women: 64%**
 -   **Men: 36%**
 
@@ -137,7 +133,6 @@ displayed data.
 ------------------------------------------------------------------------
 
 ## 3. Order Status
-
 This chart displays the number of orders by status:
 
 -   Cancelled --- 844
@@ -151,7 +146,6 @@ of successfully completed orders.
 ------------------------------------------------------------------------
 
 ## 4. Orders: Sales by Age Group
-
 This clustered column chart compares **Men vs Women** across customer
 age groups:
 
@@ -175,7 +169,6 @@ Approximate visible percentages include:
 ------------------------------------------------------------------------
 
 ## 5. Orders by Channels
-
 The donut chart shows order distribution across sales channels.
 
 Visible values include:
@@ -191,15 +184,12 @@ Visible values include:
   Others       Remaining share             ---
 
 **Amazon** is the largest visible sales channel by order count.
-
 ------------------------------------------------------------------------
-
 ## 6. Sales --- Top 5 States
 
 The horizontal bar chart identifies the top five states by sales.
 
 Visible values are approximately:
-
   State              Sales
   --------------- --------
   Maharashtra       ₹2.99M
@@ -209,7 +199,6 @@ Visible values are approximately:
   Tamil Nadu        ₹1.68M
 
 **Maharashtra** is the top-performing state among the five shown.
-
 ------------------------------------------------------------------------
 
 ## 7. Orders Percentage
@@ -230,7 +219,6 @@ outcomes.
 ------------------------------------------------------------------------
 
 ## 8. Category-wise SKUs
-
 This horizontal bar chart compares SKU counts across product categories.
 
 Visible values include:
@@ -248,7 +236,6 @@ Visible values include:
 
 **Set** and **Kurta** have the highest SKU counts in the displayed
 dashboard.
-
 ------------------------------------------------------------------------
 
 ## 9. Total Quantity by Sizes
@@ -273,9 +260,8 @@ The highest visible quantity is for **M**, followed by **L** and **XL**.
 
 ------------------------------------------------------------------------
 
-# 🔎 Key Business Insights
-
-Based on the dashboard screenshot:
+# Key Business Insights
+Based on the dashboard:
 
 1.  **Women contribute a larger share** of the displayed customer/order
     distribution than men.
@@ -295,21 +281,20 @@ Based on the dashboard screenshot:
 
 ------------------------------------------------------------------------
 
-# 🛠️ Tools / Technologies
+# Tools / Technologies
 
-The dashboard is designed as a business intelligence report and can be
+The dashboard is designed as a business intelligence report and 
 implemented using:
 
--   **Microsoft Power BI / Excel**
+-   **Microsoft Excel**
 -   use Excel for data cleaning and transformation
 -   Interactive slicers and dashboard visuals
 
 ------------------------------------------------------------------------
 
-# 📐 Dashboard Design
+# Dashboard Design
 
 The dashboard follows a structured layout:
-
 ### Top Section
 
 -   Total Sales KPI
@@ -339,7 +324,7 @@ customer/channel analysis → geographic and product analysis**.
 
 ------------------------------------------------------------------------
 
-# 🚀 How to Use the Dashboard
+# How to Use the Dashboard
 
 1.  Open the dashboard/report.
 2.  Review the KPI cards for the overall business picture.
@@ -353,7 +338,7 @@ customer/channel analysis → geographic and product analysis**.
 
 ------------------------------------------------------------------------
 
-# 📁 Recommended Project Structure
+# Recommended Project Structure
 
 ``` text
 Kayaas-Store-Dashboard/
@@ -364,14 +349,11 @@ Kayaas-Store-Dashboard/
 │
 ├── Dashboard/
 │   └── Kayaas_Store_Dashboard.pbix
-│
-└── Screenshots/
-    └── dashboard.png
 ```
 
 ------------------------------------------------------------------------
 
-# 💡 Possible Future Enhancements
+# Possible Future Enhancements
 
 The dashboard can be extended with:
 
@@ -388,8 +370,7 @@ The dashboard can be extended with:
 
 ------------------------------------------------------------------------
 
-## 📌 Conclusion
-
+## Conclusion
 The **Kayaas Store Dashboard Annual Report 2022** provides a single
 interactive view of sales and order performance. It combines KPI cards,
 trend analysis, customer segmentation, channel analysis, geographic
@@ -406,5 +387,5 @@ The dashboard can help business users quickly answer questions such as:
 -   What percentage of orders are successfully delivered?
 -   Which product sizes have the highest demand?
 
-Overall, the dashboard converts raw store/order data into an
+**Overall**, the dashboard converts raw store/order data into an
 **interactive business-performance report for 2022**.
